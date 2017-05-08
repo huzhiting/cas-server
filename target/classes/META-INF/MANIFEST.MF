@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Jasig CAS Core
+Implementation-Version: 4.0.0
+Built-By: hzt
+Specification-Vendor: Jasig
+Specification-Title: Jasig CAS Core
+Implementation-Vendor-Id: org.jasig.cas
+Build-Jdk: 1.8.0_73
+Specification-Version: 4.0.0
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Jasig
+
